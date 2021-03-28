@@ -1,0 +1,36 @@
+.parent-div {
+  color: black;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.table-div {
+  text-align: center;
+}
+
+table {
+  border-radius: 6px;
+}
+
+table, th, td {
+  border: 2px solid #5C5863;
+  border-radius: 6px;
+  border-collapse: seperate;
+}
+
+th, td {
+  padding: 10px;
+  border: 2px solid #5C5863;
+}
+
+th {
+  width: 10vw;
+  background-color: #0B2E59;
+  color: white;
+}
+
+td {
+  width: 30vw;
+}
